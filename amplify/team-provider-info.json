@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-satvawsstreamingapp-dev-143240-authRole",
+      "UnauthRoleArn": "arn:aws:iam::248686413989:role/amplify-satvawsstreamingapp-dev-143240-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::248686413989:role/amplify-satvawsstreamingapp-dev-143240-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-satvawsstreamingapp-dev-143240-deployment",
+      "UnauthRoleName": "amplify-satvawsstreamingapp-dev-143240-unauthRole",
+      "StackName": "amplify-satvawsstreamingapp-dev-143240",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:248686413989:stack/amplify-satvawsstreamingapp-dev-143240/a90cf1a0-2a54-11ec-b420-06f54a2d114f",
+      "AmplifyAppId": "d13cwgmkw5omu4"
+    },
+    "categories": {
+      "auth": {
+        "satvawsstreamingapp5399f143": {}
+      }
+    }
+  }
+}
